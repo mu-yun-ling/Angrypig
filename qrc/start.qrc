@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>start/back.png</file>
+        <file>start/bar.png</file>
+        <file>start/begin_bar.png</file>
+        <file>start/beginning.png</file>
+        <file>start/big_bar.png</file>
+        <file>start/home.png</file>
+        <file>start/kuma_lable.png</file>
+        <file>start/label.png</file>
+        <file>start/loading.png</file>
+        <file>start/menu.png</file>
+        <file>start/next.png</file>
+        <file>start/no.png</file>
+        <file>start/title1.png</file>
+        <file>start/title2.png</file>
+        <file>start/volume.png</file>
+        <file>start/yes.png</file>
+    </qresource>
+</RCC>

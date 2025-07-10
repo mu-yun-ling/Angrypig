@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pig/bord.jpg</file>
+        <file>pig/pig_cap1.png</file>
+        <file>pig/pig_cap2.png</file>
+        <file>pig/pig_green1.png</file>
+        <file>pig/pig_green2.png</file>
+        <file>pig/pig_king.png</file>
+        <file>pig/slingshot1.png</file>
+        <file>pig/slingshot2.png</file>
+    </qresource>
+</RCC>

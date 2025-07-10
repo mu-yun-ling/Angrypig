@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sound/die1.WAV</file>
+        <file>sound/die2.WAV</file>
+        <file>sound/die3.WAV</file>
+        <file>sound/game_complete.WAV</file>
+        <file>sound/loading_BGM.WAV</file>
+        <file>sound/lose.WAV</file>
+        <file>sound/play_BGM.WAV</file>
+        <file>sound/shoot_before.WAV</file>
+        <file>sound/shoot1.WAV</file>
+        <file>sound/shoot2.WAV</file>
+        <file>sound/shoot3.WAV</file>
+        <file>sound/snake _bgm.WAV</file>
+        <file>sound/title_BGM.WAV</file>
+    </qresource>
+</RCC>
